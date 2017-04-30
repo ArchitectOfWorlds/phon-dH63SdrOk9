@@ -22571,3 +22571,4 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio.prototype.acts.Stop,
 	cr.plugins_.Touch.prototype.cnds.OnTouchObject
 ];};
+
